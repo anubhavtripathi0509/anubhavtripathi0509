@@ -1,14 +1,29 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1500">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+<br>
+<br>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Anubhav</h1></summary>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&pause=500&center=true&width=435&color=0096FF&size=35&lines=Hi👋,+I+am+Arman" alt="Typing SVG" /></a>
   </ul>
 </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
+<br>
+
+<!-- <div id="user-content-toc"> -->
+<!--   <ul align="center"> -->
+<!--     <summary><h1 style="display: inline-block">Hi 👋, I'm Anubhav</h1></summary> -->
+<!--   </ul> -->
+<!-- </div> -->
+
+<!-- <div align="center"> -->
+<!--   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a> -->
+<!-- </div> -->
 
 <div id="user-content-toc">
   <ul align="center">
